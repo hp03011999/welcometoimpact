@@ -1,0 +1,677 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    header{
+        flex-direction: column;
+        height: unset !important;
+        padding: 14px 0px 10px 42px !important;
+        align-items: start !important;
+        
+    }
+    .head ul{
+        flex-direction: column;
+        padding-left: 0px !important;
+    }
+    .head2{
+        padding-left: 38px;
+    }
+    .father{
+        flex-direction: column;
+        padding: 0px !important;
+        padding-top: 0 !important;
+        position: unset !important;
+        align-items: left !important;
+        
+    }
+    .list ul li{
+        padding: 5px 14px 0px 16px !important;
+    }
+    .list ul{
+        /* flex-direction: column; */
+        flex-wrap: wrap !important;
+        margin-left: -29px !important;
+    }
+    .father0{
+        flex-direction: column;
+        margin: 0 !important;
+    }
+    .father1{
+        width: unset !important;
+    }
+    .son1 h1{
+        margin-top: 63px !important;
+        margin-left: 15px;
+        margin-bottom: 7px !important;
+        font-size: 36px !important;
+    }
+    .son3 a{
+        padding-right: 0px !important;
+        font-size: 13px !important;
+    }
+    .son1 p {
+        margin-left: 15px !important;
+}
+.father2 {
+    margin-top: 36px !important;
+    height: unset !important;
+    width: unset !important;
+}
+.box2{
+    flex-direction: column;
+    width: unset !important;
+    height: unset !important;
+    margin: 5px !important;
+}
+.box1{
+    flex-direction: column;
+    left: 0px !important;
+    position: unset !important;
+}
+
+.box{
+    position: unset !important;
+}
+
+.aboutus{
+    margin: 20px 25px 0px !important;
+}
+.aboutus1{
+    flex-direction: column;
+    margin-top: 10px !important;
+}
+.aboutus2{
+    width: unset !important;
+    height: unset !important;
+}
+.aboutus3{
+    width: unset !important;
+    margin-left: 6px !important;
+    margin-top: 6px !important;
+}
+.aboutus5{
+    width: unset !important;
+    height: unset !important;
+}
+.lineimage{
+    flex-direction: column;
+    margin-top: 22px !important;
+    width: 56% !important;
+    margin-left: 67px !important;
+    height: unset !important;
+}
+
+.numimage0 {
+    margin-top: 0px !important;
+}
+.numimage1{
+    flex-direction: column;
+    margin: 0px !important;
+}
+.numimage1 p{
+    padding: 0px !important;
+}
+.numimage{
+    width: 245px !important;
+    height: 218px !important;
+}
+.number{
+    flex-direction: column;
+    margin: 30px !important;
+}
+.nature1{
+    padding-top: 0px !important;
+}
+.nature{
+    margin: 0px !important;
+}
+.dolori h1{
+    padding: 33px 0px 0px 0px !important;
+}
+.dolori{
+    height: unset !important;
+    margin-top: 20px !important;
+}
+.dolori2 h1{
+    border-bottom: 1px solid grey !important;
+}
+.dolori2 p{
+    padding: 0px !important;
+}
+.dolori hr{
+    top: 50px !important;
+    left: 131px !important;
+}
+.dolori2{
+    height: 347px !important;
+    padding: 10px !important;
+}
+.testimonial h1{
+    padding: 0px !important;
+    font-weight: 300 !important;
+}
+.testimonial1{
+    flex-direction: column;
+}
+.testimonial2 {
+    width: unset !important;
+    height: unset !important;
+    margin: 0px !important;
+    padding: 10px !important;
+}
+.testimonial3 i {
+    padding-top: 0px !important;
+}
+.dolori2 span i{
+    font-size: 40px !important;
+}
+.testimonialimg5 {
+    top: 540px !important;
+    left: 14px !important;
+}
+.testimonialimg6 {
+    top: 868px !important;
+    left: 16px !important;
+}
+.testimonial {
+    margin-top: 27px !important;
+}
+.aboutus p{
+    margin-top: 0 !important;
+}
+.testimonialimg4 {
+    top: 195px !important;
+    left: 13px !important;
+}
+.portfolio{
+    padding-top: 11px !important;
+    margin-top: 20px !important;
+}
+.portfolio1 a{
+    padding: 0px 4px !important;
+}
+.portfoliopara{
+    padding: 0px !important;
+}
+.appscontent{
+    text-align: center !important;
+}
+.appsimage {
+    width: 100% !important;
+    height: 200px !important;
+}
+.ourteam h1 {
+    padding: 10px 0px 0px 0px !important;
+}
+.ourteam {
+    margin-top: 20px !important;
+}
+.apps{
+    padding-bottom: 0px !important;
+}
+.testimonial hr{
+    top: 27px !important;
+    left: 135px !important;
+}
+.portfolio hr{
+    top: 31px !important;
+    left: 131px !important;
+}
+.ourteam hr {
+    top: 35px !important;
+    left: 131px !important;
+}
+.ourteampara p {
+    padding: 0px !important;
+}
+.ourteam1{
+    flex-direction: column;
+}
+.pricingpara p{
+    padding: 0px !important;
+}
+.pricing1 {
+    flex-direction: column;
+    padding: 0px !important;
+}
+.pricing3{
+    width: 309px !important;
+    height: 681px !important;
+    top: 200px !important;
+    left: 9px !important;
+
+}
+.pricing5{
+    padding-right: 92px !important;
+}
+.pricing{
+    margin-top: 20px !important;
+    padding-top: 20px !important;
+}
+.pricing hr{
+    top: 46px !important;
+    left: 127px !important;
+}
+.pricing2{
+    margin-top: 716px !important;
+    width: unset !important;
+
+}
+.pricing2 h2 {
+    padding: 20px 0px 25px !important;
+}
+.question1{
+    flex-direction: column;
+    padding-top: 111px !important;
+    padding-left: 0px !important;
+    margin-top: 1141px !important;
+    margin-left: 20px !important;
+}
+.question2{
+    padding: 0px !important;
+    height: unset !important;
+    width: unset !important;
+}
+.question3{
+    width: unset !important;
+    height: unset !important;
+}
+.recent{
+    padding-top: 10px !important;
+    margin-top: 65px !important;
+}
+.recent hr{
+    top: 41px !important;
+    left: 132px !important;
+}
+.recent1 {
+    flex-direction: column;
+}
+.recentimage{
+    width: 296px !important;
+}
+.recent2{
+    width: 296px !important;
+    height: unset !important; 
+}
+.contact1{
+    flex-direction: column;
+    width: unset !important;
+    margin-left: 10px !important;
+   
+}
+.contact2 {
+    width: unset !important;
+}
+.contactl i{
+    padding: 0px !important;
+}
+.contactl{
+    align-items: normal;
+}
+.contact4{
+    width: unset !important;
+    height: 526px !important;
+}
+.contactpara{
+    padding: 0px !important;
+}
+.contactform input{
+    width: unset !important;
+    margin: 12px 5px 0px 8px !important;
+    padding: 0px !important;
+}
+.contactsub input{
+    width: unset !important;
+    padding: 0px !important;
+    margin: 27px 0px !important;
+}
+.contactmsg textarea{
+    margin-left: 0px !important;
+    width: 76% !important;
+}
+.contact{
+    margin-top: 1042px !important;
+}
+.contact4 a{
+    top: 417px !important;
+    left: 44px !important;
+}
+.contact hr{
+    top: 22px !important;
+    left: 130px !important;
+}
+.container .col-sm-6 a{
+    font-size: 27px !important;
+}
+.container .col-sm-2 h4{
+    padding-top: 10px !important;
+}
+.usefullink{
+    height: 1173px !important;
+    margin-top: 20px !important;
+}
+
+
+}
+
+
+
+
+
+
+
+
+/* 320 to 570 completed****************************************************************************************************************8 */
+
+
+
+@media screen and (min-width:570px) and (max-width:1024px) {
+    header{
+        flex-direction: column;
+        height: unset !important;
+        padding: 10px 5px !important;
+    }
+    .father{
+        flex-direction: column;
+        padding: 0px 63px 0px !important;
+        position: unset !important;
+    }
+    .list ul li{
+        padding: 5px 7px 0px 2px !important;
+    }
+    .father0{
+        flex-direction: column;
+        margin-top: 0 !important;
+        margin: 20px 9px 0px 20px !important;
+
+
+    }
+    .father1{
+        width: unset !important;
+
+}
+.son1 h1{
+    font-size: 37px !important;
+}
+.father2{
+    margin-top: 0px !important;
+    width: unset !important;
+    height: unset !important;
+}
+.box1{
+    flex-direction: column;
+}
+.box2{
+    padding: 7px 10px !important;
+    margin: 8px !important;
+    width: unset !important;
+    height: unset !important;
+    flex-direction: column;
+}
+
+.aboutus{
+    margin: 312px 10px -62px !important;
+}
+.aboutus p{
+    margin-top: 0px !important;
+}
+.aboutus1{
+    flex-direction: column;
+    margin-top: 30px !important;
+}
+.aboutus2{
+    width: unset !important;
+    height: unset !important;
+}
+.aboutus3{
+    width: unset !important;
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+}
+.aboutus5{
+    width: unset !important;
+    height: unset !important;
+    margin-top: 0px !important;
+}
+.lineimage{
+    flex-direction: column;
+    justify-content: unset !important;
+    margin-top: 100px !important;
+    padding-left: 127px !important;
+    width: 76% !important;
+    height: unset !important;
+}
+.number{
+    flex-direction: column;
+    margin-top: 67px !important;
+}
+.numimage{
+    height: unset !important;
+    width: unset !important;
+}
+.numimage0{
+    margin-top: 0px !important;
+    margin-left: 78px !important;
+}
+.nature{
+    width: 100% !important;
+    margin: 0px !important;
+}
+.nature1{
+    padding-top: 0px !important;
+}
+.dolori hr{
+    top: 112px !important;
+    left: 257px !important;
+}
+.dolori2{
+    height: unset !important;
+    width: unset !important;
+}
+.dolori{
+    height: unset !important;
+}
+.para{
+    margin: -8px 0px !important;
+}
+.testimonial hr{
+    top: 93px !important;
+    left: 255px !important;
+}
+.testimonial1{
+    padding-left: 94px !important;
+    flex-direction: column;
+}
+.testimonial3 i{
+    padding-top: 0px !important;
+}
+.testimonialimg5{
+    top: 512px !important;
+    left: 36px !important;
+}
+.testimonialimg4{
+    top: 222px !important;
+    left: 36px !important;
+}
+.testimonial2{
+
+    margin:0px 0px 0px -77px !important;
+    width: unset !important;
+    height: unset !important;
+    
+}
+.testimonialimg6{
+    top: 807px !important;
+    left: 36px !important;
+}
+.portfoliopara {
+    padding: 0px 0px 6px 0px !important;
+}
+.portfolio hr{
+    top: 87px !important;
+    left: 257px !important;
+}
+.apps{
+    width: 100% !important;
+    padding-bottom: 33px !important;
+}
+.appsimage{
+    width: unset !important;
+    height: unset !important;
+}
+.ourteam hr{
+    top: 108px !important;
+    left: 254px !important;
+}
+.ourteam1{
+    padding-left: 111px !important;
+    flex-direction: column;
+}
+.ourteam2{
+    margin: 13px 10px 10px -98px !important;
+    height: unset !important;
+    width: unset !important;
+}
+.ourteamimage{
+    width: unset !important;
+    height: unset !important;
+}
+
+   
+
+.pricingpara p {
+    padding: 30px 0px 30px 0px !important;
+}
+.pricing hr{
+    top: 65px !important;
+    left: 261px !important;
+}
+.pricing2{
+    margin: -31px -41px 10px -39px !important;
+    /* height: unset !important; */
+    width: unset !important;
+}
+.pricing1{
+    flex-direction: column;
+    padding: 0px 54px !important;
+}
+.pricing4{
+    margin: 764px -37px 0px !important;
+    width: unset !important;
+    height: unset !important;
+
+}
+.pricing{
+    height: unset !important;
+}
+.pricing3{
+    top: 887px !important;
+    left: 35px !important;
+    width: 523px !important;
+    height: 772px !important;
+}
+.question1 {
+    flex-direction: column;
+    padding-left: 64px !important;
+}
+.question2{
+    width: unset !important;
+    height: unset !important;
+}
+.question3{
+    width: unset !important;
+    height: unset !important;
+}
+.recent{
+    height: unset !important;
+}
+.recentimage{
+    width: unset !important;
+    height: unset !important;
+
+}
+.recent hr{
+    top: 103px !important;
+    left: 245px !important;
+}
+.recentpara p{
+    padding: 27px 0px 18px 0px !important;
+}
+.recent1{
+    flex-direction: column;
+    padding-left: 63px !important;
+    margin-left: -63px !important;
+}
+
+.recent2 {
+    width: 539.01px !important;
+    height: 617.74px !important;
+}
+.contact1{
+    flex-direction: column;
+    width: 100% !important;
+    padding-left: 66px !important;
+    margin-left: 0px !important;
+    height: 811px !important;
+}
+.contact{
+    margin-top: 25px !important;
+}
+.contact4 a{
+    top: 315px !important;
+    left: 194px !important;
+}
+.contact2{
+    width: unset !important;
+    height: unset !important;
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    margin-left: -63px !important;
+}
+
+.contactpara {
+    padding: 14px 0px 25px 3px !important;
+}
+.contact h1{
+    padding-top: 14px !important;
+}
+.contact4{
+
+    width: unset !important;
+    height: unset !important;
+    margin-left: -71px !important;
+}
+.contactl{
+    flex-direction: column;
+    margin: 5px 0px !important;
+    padding: 0px !important;
+}
+.contactl i {
+    font-size: 32px !important;
+    padding: 0px 0px !important;
+}
+.contact hr{
+    top: 42px !important;
+    left: 258px !important;
+}
+.contactform input {
+    padding: 3px 4px !important;
+    width: 49% !important;
+    margin: 0px 0px 0px 0px !important;
+}
+.contactsub input {
+    padding: 6px 15px !important;
+    width: 100% !important;
+    margin: 18px 0px !important;
+}
+.contactmsg textarea{
+    margin-left: 0px !important;
+    width: 100% !important;
+
+}
+
+.usefullink{
+    height: unset !important;
+}
+
+
+}
