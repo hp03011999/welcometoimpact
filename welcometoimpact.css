@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
-    box-sizing: border-box;
+    box-sizing: border-box !important;
     font-family: "Poppins", sans-serif;
 }
 
@@ -92,21 +92,22 @@ border-bottom: 1px solid white;
 }
 .father0{
     display: flex;
-    margin-top: 142px;
-    margin: 141px 168px 1px 107px;
+    margin: 88px 50px 0px 50px;
+    width: 100%;
+    /* margin: 141px 168px 1px 107px; */
     
 }
 
-.father1{
-    width: 786px;
-    
+.father1 {
+    width: 40%;
 }
-.father2{
-    margin-top: -95px;
-
-    width: 1183px;
+.father2 {
+    margin-top: -37px;
+    width: 50%;
     height: 500px;
 }
+
+
 .father2 img{
     width: 100%;
     height: 100%;
@@ -198,11 +199,9 @@ border-bottom: 1px solid white;
     background-color: #06bda8;
 }
 
-.aboutus2{
+.aboutusimage{
     width: 636.01px;
     height: 477.01px;
-    
-   
     
 }
 .para
@@ -213,9 +212,12 @@ border-bottom: 1px solid white;
     text-align: left;
     margin: 13px 0px;
 }
+.aboutus2{
+    width: 45%;
+}
 
 
-.aboutus2 img{
+.aboutusimage img{
     width: 100%;
     height: 100%;
     border-radius: 10px;
@@ -317,9 +319,10 @@ border-radius: 15px;
         text-align: center;
         margin:95px  102px;
        
-        height: 512px;
+        height: 100vh;
         border-radius: 22px;
         /* width: 1319px; */
+        /* width: 100%; */
         background-image: url(./welcomeimpactIMAGE/nature3.jpg);
     }
 
@@ -383,7 +386,8 @@ border-radius: 15px;
         padding: 0px 0px;
         position: relative;
         text-align: center;
-        height: 1000px;
+        height: auto;
+        width: 100%;
        
         }
 
@@ -418,6 +422,10 @@ border-radius: 15px;
             flex-wrap: wrap;
             justify-content: center;
             margin-top: 43px;
+            width: 100%;
+        }
+        .dolori2{
+            width: 30%;
         }
         .dolori2 a{
             text-decoration: none;
@@ -431,28 +439,27 @@ border-radius: 15px;
             left: 725px;
             background-color: #008374;
         }
-        .testimonialimg4{
+        .testimonialimg4 {
             width: 89.99px;
             height: 89.99px;
             position: absolute;
-            top: 243px;
-            left: 132px;
-           
+            top: 235px;
+            left: 55px;
         }
         .testimonialimg5{
 
             width: 89.99px;
             height: 89.99px;
             position: absolute;
-            top: 243px;
-            left: 1014px;
+            top: 230px;
+    left: 1035px;
         }
         .testimonialimg6{
             position: absolute;
             width: 89.99px;
             height: 89.99px;
-            top: 243px;
-            left: 571px;
+            top: 230px;
+            left: 549px;
         }
         .testimonialimg4 img{
             width: 100%;
@@ -501,10 +508,12 @@ border-radius: 15px;
             box-shadow: 0px 0 15px rgba(0, 0, 0, 0.1);
             text-align: left;
             border-radius: 15px;
+            width: 30%;
         }
         .testimonial1{
             display: flex;
             justify-content: center;
+            width: 100%;
         }
         .testimonial3{
             padding:14px 0px 21px 106px;
@@ -561,7 +570,7 @@ border-radius: 15px;
         }
 
         .appsimage{
-            width: 416px;
+            /* width: 416px; */
             height: 312px;
           
         }
@@ -597,6 +606,7 @@ border-radius: 15px;
             margin: 10px;
             border-radius: 17px;
             background-color: white;
+            width: 30%;
            
         }
         .appscontent a{
@@ -685,8 +695,10 @@ border-radius: 15px;
             background-color: #f6f6f6;
             margin-top: 56px;
             padding-top: 70px;
-            position: relative;
-            height: 1049px;
+            /* width: 100%; */
+            /* position: relative; */
+            
+            /* height: 1049px; */
         }
         .pricing h1{
             font-size: 32px;
@@ -708,6 +720,7 @@ border-radius: 15px;
             display: flex;
             justify-content: space-between;
             padding: 0px 97px;
+            width: 100%;
         }
         .pricing3 p span{
             color: red;
@@ -719,7 +732,7 @@ border-radius: 15px;
             height: 678px;
             background-color: white;
             border-radius: 15px;
-            
+            width: 33%;
         }
 
 
@@ -730,6 +743,7 @@ border-radius: 15px;
             height: 678px;
             background-color: white;
             border-radius: 15px;
+            width: 33%;
         }
         .pricing4 p span{
             color: red;
@@ -776,9 +790,10 @@ border-radius: 15px;
             background-color: white;
             border: 4px solid #008374;
             border-radius: 15px;
-            position: absolute;
-            top: 223px;
-            left: 514px;
+            width: 33%;
+            /* position: absolute; */
+            /* top: 223px;
+            left: 514px; */
         }
         .pricing2 p span{
             color: red;
