@@ -1,9 +1,17 @@
-*{
+*
+{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box !important;
     font-family: "Poppins", sans-serif;
 }
+
+body {
+    
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+
+
 
 header{
 
@@ -93,7 +101,7 @@ border-bottom: 1px solid white;
 .father0{
     display: flex;
     margin: 88px 50px 0px 50px;
-    width: 100%;
+    /* width: 100%; */
     /* margin: 141px 168px 1px 107px; */
     
 }
@@ -102,9 +110,9 @@ border-bottom: 1px solid white;
     width: 40%;
 }
 .father2 {
-    margin-top: -37px;
-    width: 50%;
-    height: 500px;
+    margin-top: 0px;
+    width: 40%;
+    height: 379px;
 }
 
 
@@ -213,7 +221,7 @@ border-bottom: 1px solid white;
     margin: 13px 0px;
 }
 .aboutus2{
-    width: 45%;
+    width: 54%;
 }
 
 
@@ -252,12 +260,11 @@ border-radius: 15px;
     display: flex;
     margin-top: 60px;
 }
-.aboutus3{
-    width: 616px;
-    margin-left: 67px;
-    margin-top: -38px;
-
-    
+.aboutus3 {
+    /* width: 616px; */
+    /* margin-left: 67px; */
+    /* margin-top: -38px; */
+    width: 47%;
 }
 
 .aboutus3 p{
