@@ -143,6 +143,7 @@
 .dolori2{
     height: 347px !important;
     padding: 10px !important;
+    width: unset !important;
 }
 .testimonial h1{
     padding: 0px !important;
@@ -251,7 +252,7 @@
     left: 127px !important;
 }
 .pricing2{
-    margin-top: 716px !important;
+    margin-top: 30px !important;
     width: unset !important;
 
 }
@@ -260,9 +261,9 @@
 }
 .question1{
     flex-direction: column;
-    padding-top: 111px !important;
+    /* padding-top: 111px !important; */
     padding-left: 0px !important;
-    margin-top: 1141px !important;
+    margin-top: 25px !important;
     margin-left: 20px !important;
 }
 .question2{
@@ -350,10 +351,24 @@
     margin-top: 20px !important;
 }
 
+.aboutusimage{
+    width: unset !important;
+    height: unset !important;
+}
+.nature1 p{
+    padding: 0px !important;
+}
 
+.pricing4{
+    width: 96% !important;
+    height: unset !important;
+}
+.apps1{
+    width: unset !important;
 }
 
 
+}
 
 
 
@@ -370,6 +385,7 @@
         height: unset !important;
         padding: 10px 5px !important;
     }
+    
     .father{
         flex-direction: column;
         padding: 0px 63px 0px !important;
@@ -394,7 +410,7 @@
 }
 .father2{
     margin-top: 0px !important;
-    width: unset !important;
+    width: 71% !important;
     height: unset !important;
 }
 .box1{
@@ -421,6 +437,9 @@
 .aboutus2{
     width: unset !important;
     height: unset !important;
+}
+.aboutusimage{
+    width: 100% !important;
 }
 .aboutus3{
     width: unset !important;
@@ -514,6 +533,10 @@
     width: 100% !important;
     padding-bottom: 33px !important;
 }
+
+.apps1 {
+    width: 100% !important;
+}
 .appsimage{
     width: unset !important;
     height: unset !important;
@@ -541,8 +564,8 @@
 .pricingpara p {
     padding: 30px 0px 30px 0px !important;
 }
-.pricing hr{
-    top: 65px !important;
+.pricing hr {
+    top: 94px !important;
     left: 261px !important;
 }
 .pricing2{
@@ -554,19 +577,19 @@
     flex-direction: column;
     padding: 0px 54px !important;
 }
-.pricing4{
-    margin: 764px -37px 0px !important;
-    width: unset !important;
-    height: unset !important;
-
+.pricing4 {
+    margin: 10px 0px 16px -19px !important;
+    width: 113% !important;
+    height: 200vh !important;
 }
+
+
 .pricing{
     height: unset !important;
 }
-.pricing3{
-    top: 887px !important;
-    left: 35px !important;
-    width: 523px !important;
+.pricing3 {
+    margin-left: -32px !important;
+    width: 113% !important;
     height: 772px !important;
 }
 .question1 {
@@ -603,8 +626,9 @@
 }
 
 .recent2 {
-    width: 539.01px !important;
-    height: 617.74px !important;
+    margin: 15px 15px !important;
+    width: 95% !important;
+    height: 162vh !important;
 }
 .contact1{
     flex-direction: column;
@@ -671,6 +695,15 @@
 
 .usefullink{
     height: unset !important;
+}
+
+.father2 img {
+    /* width: 100%;
+    height: 100%; */
+    object-fit: unset !important;
+}
+.lineimage1{
+    height: 4rem !important;
 }
 
 

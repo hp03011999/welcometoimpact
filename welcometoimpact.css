@@ -270,7 +270,7 @@ border-radius: 15px;
 .aboutus3 p{
     text-align: left;
 }
-.lineimage{
+.lineimage1{
     width: 100%;
    
 
@@ -746,7 +746,7 @@ border-radius: 15px;
 
         .pricing4{
 
-            width: 416px;
+            /* width: 416px; */
             height: 678px;
             background-color: white;
             border-radius: 15px;
